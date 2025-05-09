@@ -18,7 +18,7 @@ const NavBar = ({ onNavigate }) => {
     { label: "Home", id: "hero" },
     { label: "Planets", id: "planets" },
     { label: "Galaxy", id: "galaxy" },
-    { label: "Space Facts", id: "facts" },
+    { label: "Space Facts", id: "space-facts" },
   ];
 
   return (

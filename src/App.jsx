@@ -4,7 +4,7 @@ import NavBar from "./components/Navbar"
 import PlanetSection from "./components/PlanetSection"
 import GalaxyExplorer from "./components/GalaxyExplorer"
 import SpaceFacts from "./components/SpaceFacts"
-import Footer from "./components/footer"
+import Footer from "./components/Footer"
 import { ThemeProvider } from "./components/ThemeContext"
 
 const CosmicLoader = () => {
